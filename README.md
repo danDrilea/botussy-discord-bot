@@ -2,11 +2,10 @@
 
 A powerful Discord bot powered by DisTube for music playback and Ollama LLM for AI interaction, featuring support for Spotify, SoundCloud, YouTube streaming, and customizable responses powered by a local language model.
 
-<div align="center">
-  
+## ✨ Demo
+
 https://www.youtube.com/embed/aL5vy_7rPgY
 
-</div>
 
 <div align="center">
   
