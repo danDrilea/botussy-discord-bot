@@ -4,7 +4,7 @@ A powerful Discord bot powered by DisTube for music playback and Ollama LLM for 
 
 <div align="center">
   
-<iframe width="853" height="480" src="https://www.youtube.com/embed/aL5vy_7rPgY" title="Discord bot demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/aL5vy_7rPgY
 
 </div>
 
