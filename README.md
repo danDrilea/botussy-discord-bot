@@ -14,7 +14,7 @@ A powerful Discord bot powered by DisTube for music playback and Ollama LLM for 
 
 ## ✨ Demo
 
-https://www.youtube.com/embed/aL5vy_7rPgY
+https://www.youtube.com/watch?v=aL5vy_7rPgY
 
 ## ✨ Features
 
