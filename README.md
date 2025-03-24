@@ -4,6 +4,12 @@ A powerful Discord bot powered by DisTube for music playback and Ollama LLM for 
 
 <div align="center">
   
+<iframe width="853" height="480" src="https://www.youtube.com/embed/aL5vy_7rPgY" title="Discord bot demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+<div align="center">
+  
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
